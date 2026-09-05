@@ -1,0 +1,19 @@
+{
+  "name": "월하당 · 사주 분석",
+  "short_name": "월하당",
+  "icons": [
+    {
+      "src": "wolhadang-moon-favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "wolhadang-moon-favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4b3565",
+  "background_color": "#4b3565",
+  "display": "standalone"
+}
